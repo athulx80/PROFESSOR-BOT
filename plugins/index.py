@@ -64,9 +64,9 @@ async def send_for_index(bot, message):
     except: return await message.reply('Make Sure That Iam An Admin In The Channel, if channel is private')
     if k.empty: return await message.reply('This may be group and iam not a admin of the group.')
     buttons = InlineKeyboardMarkup([[
-        InlineKeyboardButton('✨ ʏᴇꜱ', callback_data=f'index#{chat_id}#{last_msg_id}')
+        InlineKeyboardButton('✅ ʏᴇꜱ', callback_data=f'index#{chat_id}#{last_msg_id}')
         ],[
-        InlineKeyboardButton('🚫 ᴄʟᴏꜱᴇ', callback_data='close_data')
+        InlineKeyboardButton('❎ ᴄʟᴏꜱᴇ', callback_data='close_data')
     ]])               
     await message.reply(f'Do You Want To Index This Channel/ Group ?\n\nChat ID/ Username: <code>{chat_id}</code>\nLast Message ID: <code>{last_msg_id}</code>', reply_markup=buttons)
     
