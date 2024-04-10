@@ -11,7 +11,7 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ✯ Dᴇᴠᴇʟᴏᴩᴇʀ: <a herf=https://t.me/athulx80>Athul</a>
 ✯ Cᴏᴅᴇᴅ Oɴ: ᴩʏᴛʜᴏɴ/ᴩʏʀᴏɢʀᴀᴍ
 ✯ DᴀᴛᴀBᴀꜱᴇ: ᴍᴏɴɢᴏ-ᴅʙ
-✯ Cʜᴀɴɴᴇʟ: <a herf=https://t.me/+L8SWfrF_7m04ODZl>𝐌𝐎𝐕𝐈𝐄𝐒 𝐄𝐌𝐏𝐈𝐑𝐄</a>
+✯ Cʜᴀɴɴᴇʟ: @MEmpire_Official
 ✯ Sᴇʀᴠᴇʀ: ᴀɴʏᴡʜᴇʀᴇ
 ✯ Vᴇʀꜱɪᴏɴ: ᴠ4.5.0</b>"""
    
